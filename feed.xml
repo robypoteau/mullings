@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mullings</title>
-    <description>What's on my mind?</description>
+    <description>Sharing thoughts and reflections in a public space.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 May 2021 23:01:22 -0400</pubDate>
-    <lastBuildDate>Wed, 26 May 2021 23:01:22 -0400</lastBuildDate>
+    <pubDate>Thu, 27 May 2021 10:05:32 -0400</pubDate>
+    <lastBuildDate>Thu, 27 May 2021 10:05:32 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
