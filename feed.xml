@@ -3,28 +3,40 @@
   <channel>
     <title>Mullings</title>
     <description>Sharing thoughts and reflections in a public space.</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 May 2021 10:57:44 -0400</pubDate>
-    <lastBuildDate>Thu, 27 May 2021 10:57:44 -0400</lastBuildDate>
+    <link>https://mullings.robopoto.com/</link>
+    <atom:link href="https://mullings.robopoto.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 May 2021 15:46:05 -0400</pubDate>
+    <lastBuildDate>Thu, 27 May 2021 15:46:05 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>When life gives you lemons, read manga</title>
         <description>&lt;p&gt;*Spoiler alert for Demon Slayer after the Mugen Train arc&lt;/p&gt;
 
-&lt;p&gt;I spent part of the weekend complaining with a friend about how bad church doctrine ruined important parts of our lives. Even though we’ve grown past and overcome many of those ideas, we still feel the consequences of those teachings. Those are still years of our lives we can never get back and we’re still suffering from the decisions we made based on those ideas.&lt;/p&gt;
+&lt;p&gt;I spent part of the weekend complaining with a friend about how bad church doctrine ruined important parts of our lives. Even though we’ve grown and overcome many of those ideas, we still feel the consequences of those teachings. Unfortunately, those are still years of our lives we can never get back, and we’re still suffering from the decisions we made based on those ideas.&lt;/p&gt;
 
-&lt;p&gt;On my flight back home, I was reading Demon Slayer, chapter 69, and there was a line that really hit home. At this point in the story, the main character, Tanjiro has watched more people die without having the power to do anything to stop it. He’s in mourning and struggling with his weakness. He says he wishes there was a way to instantly become strong enough to have protected his comrade, but accepts the fact that there is “no such method”. He then says, “The only option is to struggle on. All I can do is move forward no matter how difficult or frustrating it is.&lt;/p&gt;
+&lt;p&gt;On my flight back home, I was reading Demon Slayer, chapter 69. At this point in the story, the main character, Tanjiro, has watched more people die without having the power to do anything to stop it. He’s in mourning and struggling with his weakness. He says he wishes there was a way to instantly become strong enough to have protected his comrade but accepts the fact that there is “no such method.” He then says,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The only option is to struggle on. All I can do is move forward no matter how difficult or frustrating it is.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In my context, this statement really hit home. It was a reminder that even though life might give lemons, even though you might make mistakes, even though bad things happen to us all. Mourning, in my case complaining, isn’t a solution, at most it’s a part of the process. Therefore, a meaningful option is to move forward in a positive direction. That isn’t to say everything will work out and life will eventually be rainbows and gummy bears, but hopefully, as you move forward, future joys will overshadow past pains or give hope that tomorrow will be better.&lt;/p&gt;
 </description>
         <pubDate>Tue, 25 May 2021 01:00:00 -0400</pubDate>
-        <link>/when-life-gives-you-lemons-read-manga/</link>
-        <guid isPermaLink="true">/when-life-gives-you-lemons-read-manga/</guid>
+        <link>https://mullings.robopoto.com/when-life-gives-you-lemons-read-manga/</link>
+        <guid isPermaLink="true">https://mullings.robopoto.com/when-life-gives-you-lemons-read-manga/</guid>
         
         
         <category>Demon Slayer</category>
         
         <category>manga</category>
+        
+        <category>complaining</category>
+        
+        <category>moving forward</category>
+        
+        <category>hope</category>
         
       </item>
     
@@ -37,8 +49,8 @@
 &lt;p&gt;Keeping in mind these examples, I don’t know if I believe you can effectively empathize without some comparative experience. Even if you believe your story compares, the other person needs to believe you understand their experience also.&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Mar 2021 01:00:00 -0400</pubDate>
-        <link>/are-same-experiences-required-for-empathy/</link>
-        <guid isPermaLink="true">/are-same-experiences-required-for-empathy/</guid>
+        <link>https://mullings.robopoto.com/are-same-experiences-required-for-empathy/</link>
+        <guid isPermaLink="true">https://mullings.robopoto.com/are-same-experiences-required-for-empathy/</guid>
         
         <category>empathy</category>
         
@@ -64,8 +76,8 @@ have come to believe that if there isn’t some level of discomfort that I’m n
 actually being vulnerable.&lt;/p&gt;
 </description>
         <pubDate>Wed, 25 Nov 2020 00:00:00 -0500</pubDate>
-        <link>/how-do-you-be-vulnerable/</link>
-        <guid isPermaLink="true">/how-do-you-be-vulnerable/</guid>
+        <link>https://mullings.robopoto.com/how-do-you-be-vulnerable/</link>
+        <guid isPermaLink="true">https://mullings.robopoto.com/how-do-you-be-vulnerable/</guid>
         
         <category>vulnerability</category>
         
@@ -86,8 +98,8 @@ actually being vulnerable.&lt;/p&gt;
 &lt;p&gt;So instead of spending so much effort removing all the uncertainty from our lives, we should instead learn to trust the Son and to love as Christ loved us.&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Jun 2020 01:00:02 -0400</pubDate>
-        <link>/god-speaking/</link>
-        <guid isPermaLink="true">/god-speaking/</guid>
+        <link>https://mullings.robopoto.com/god-speaking/</link>
+        <guid isPermaLink="true">https://mullings.robopoto.com/god-speaking/</guid>
         
         <category>god speaking</category>
         
@@ -110,8 +122,8 @@ actually being vulnerable.&lt;/p&gt;
 &lt;p&gt;It’s so true, we often say we want success, but do are actions and step agree?&lt;/p&gt;
 </description>
         <pubDate>Sun, 17 May 2020 01:00:00 -0400</pubDate>
-        <link>/what-you-say-what-you-do/</link>
-        <guid isPermaLink="true">/what-you-say-what-you-do/</guid>
+        <link>https://mullings.robopoto.com/what-you-say-what-you-do/</link>
+        <guid isPermaLink="true">https://mullings.robopoto.com/what-you-say-what-you-do/</guid>
         
         
         <category>Desire</category>
