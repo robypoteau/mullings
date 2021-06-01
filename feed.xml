@@ -2,12 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mullings</title>
-    <description>Sharing thoughts and reflections in a public space.</description>
+    <description>Sharing thoughts and reflections with whomever is interested.</description>
     <link>https://mullings.robopoto.com/</link>
     <atom:link href="https://mullings.robopoto.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 May 2021 15:56:00 -0400</pubDate>
-    <lastBuildDate>Thu, 27 May 2021 15:56:00 -0400</lastBuildDate>
+    <pubDate>Mon, 31 May 2021 20:21:22 -0400</pubDate>
+    <lastBuildDate>Mon, 31 May 2021 20:21:22 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Castlevania... teaches empathy?</title>
+        <description>&lt;p&gt;I watched the first episode of Castlevania, season 4, and they opened with some lines from the end of the previous season.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sypha: This could not have gone more wrong, what happened?
+Belmont: We’ve spent a couple of months living your life, adventures and victories. Now, we’re living my life.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For context, Belmont’s life consisted of fighting monsters and seeing the darker side of humanity, while Sypha has been traveling with a scholarly, idealistic, altruistic group. Belmont is often given a hard time throughout the series for his gloomy attitude, but in season 4, the other characters relate to his experience. They even find themselves thinking and behaving more like him. I appreciated that the show highlighted this transformation in Sypha and Alucard.&lt;/p&gt;
+
+&lt;p&gt;I find this interesting because it highlights how circumstances form the way we perceive the world. Sypha lived in the Ivory Tower, so to speak, and she was very hopeful and optimistic. Then she started trying to help people against overwhelming odds, i.e., live Belmont’s life, and quickly discovered life wasn’t all rainbows and gummies. She is now able to understand why Belmont is the way he is.&lt;/p&gt;
+
+&lt;p&gt;It’s imperative that we also understand that people see the world very differently from us. Whether it’s right or wrong isn’t the first question we need to ask. Instead, it’s more helpful to ask how they got to that worldview. It’s often hubris to assume we can convince someone that they need to think how we think. Instead, we should try to feel their feelings in the circumstances that led them to view the world the way they do. After that, we can address others with empathetic understanding and hopefully offend less often.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 May 2021 01:00:00 -0400</pubDate>
+        <link>https://mullings.robopoto.com/castlevania-teaches-empathy/</link>
+        <guid isPermaLink="true">https://mullings.robopoto.com/castlevania-teaches-empathy/</guid>
+        
+        
+        <category>Castlevania</category>
+        
+        <category>Netflix</category>
+        
+        <category>empathy</category>
+        
+      </item>
     
       <item>
         <title>When life gives you lemons, read manga</title>
